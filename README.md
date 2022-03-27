@@ -8,7 +8,8 @@ atau
 
 atau
 
-Private Sub CommandButton1_Click() TEXTBOX3-VAL (TEXTBOX1) +VAL (TEXTBOX2)
+Private Sub CommandButton1_Click() 
+TEXTBOX3=VAL (TEXTBOX1) +VAL (TEXTBOX2)
 
 End Sub
 
