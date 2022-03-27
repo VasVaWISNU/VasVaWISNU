@@ -8,15 +8,17 @@ atau
 
 atau
 
-Frivate Sub CommandButton1_Click() TEXTBOX3-VAL (TEXTBOX1) +VAL (TEXTBOX2)
+Private Sub CommandButton1_Click() TEXTBOX3-VAL (TEXTBOX1) +VAL (TEXTBOX2)
 
 End Sub
 
-Click
+hapus ini
 
-Frivate Sub Labe12_Click()
+Private Sub Labe12_Click()
 
 End Sub
+
+hapus ini
 
 Private Sub Labe14_Click()
 
